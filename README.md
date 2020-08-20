@@ -14,6 +14,7 @@
   7- Recursion
   8- Compose
   9- Trampoline
+  10- Debounce
   10- ............
 
 <img src="./img/meme_sapo.jpg" alt="Introdução" width="380" height="270">
